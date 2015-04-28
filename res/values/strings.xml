@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TP2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Ajouter_une_tache">Ajouter une tache</string>
+    <string name="Nom">Nom</string>
+    <string name="Nom_defaut">Bob</string>
+    <string name="Bouton_Ajouter">Ajouter</string>
+    <string name="Commentaire_defaut">T es un bouffon </string>
+	<string name="commentaire">commentaire</string>
+</resources>
